@@ -10,9 +10,9 @@ I'm a Full-Stack Web Dev, Cyber-Security . based in Egypt. I'm passionate about 
 
 ## 💻 Technical Skills
 
-- Programming languages: Python, PHP
-- Frameworks and libraries: Django, Laravel
-- Databases: MySQL, MongoDB
+- Programming languages: Python , PHP
+- Frameworks and libraries: Django , Laravel
+- Databases: MySQL , MongoDB
 
 
 
