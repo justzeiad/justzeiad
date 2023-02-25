@@ -24,6 +24,8 @@ I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bu
 
 ## 🌱 What I'm Learning
 
+- Network
+- cyber sceurity
 - Django: Python Web Dev. Framework.
 - Laravel: PHP Web Dev. Framework.
 
