@@ -4,7 +4,7 @@
 
 # Hello, I'm Yuu ! 👋
 
-I'm a Full-Stack Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy python-dev.
+I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy python-dev.
 
 
 
