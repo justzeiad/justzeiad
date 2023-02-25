@@ -1,16 +1,36 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**notyuu/notyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Yuu ! 👋
 
-Here are some ideas to get you started:
+I'm a Full-Stack Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy python-dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💻 Technical Skills
+
+- Programming languages: Python, PHP
+- Frameworks and libraries: Django, Laravel
+- Databases: MySQL, MongoDB
+
+
+
+## 🔭 Current Projects
+
+- scan-ports: A simple Python script that allows you to scan for open ports on a given host.
+
+
+
+## 🌱 What I'm Learning
+
+- Django: Python Web Dev. Framework.
+- Laravel: PHP Web Dev. Framework.
+
+
+
+## 📫 How to Reach Me
+
+- Email: JustZeiad@proton.me
+- Discord: Yuu#8302
+
