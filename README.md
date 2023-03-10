@@ -34,6 +34,6 @@ I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bu
 
 ## 📫 How to Reach Me
 
-- Email: notyuulol@protonmail.com
+- Email: justzeiad@proton.me
 - Discord: NotZiad#5062
 
