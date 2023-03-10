@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hello, I'm Yuu ! 👋
+# Hello, I'm Ziad ! 👋
 
 I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy python-dev.
 
@@ -35,5 +35,5 @@ I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bu
 ## 📫 How to Reach Me
 
 - Email: notyuulol@protonmail.com
-- Discord: Yuu#8302
+- Discord: NotZiad#5062
 
