@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -6,8 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=justzeiad&&style=flat-square" align="center" />
 </div>
 <br>
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5006&pause=1000&color=0F520C&width=310&height=45&lines=Hello+I'm+Ziad+..." alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5006&pause=1000&color=0F520C&width=310&height=45&lines=Hello+I'm+Ziad+...+(:" alt="Typing SVG" /></a>
 </div>
 I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy python-dev.
 
@@ -40,13 +41,10 @@ I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bu
 ## 📫 How to Reach Me
 
 - Email: justzeiad@proton.me
-- Discord: NotZiad#5062
-<a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
-</a>
 
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=justzeiad&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+<div align="center">
+  <p>Discord Account<p>
+<a href="https://discord.com/users/950415104669806702" >
+   <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=04061c&waveSpotifyColor=32325c&gradient=7E37F9-B48EF7-E568C4"  />
+</a>
+</div>
