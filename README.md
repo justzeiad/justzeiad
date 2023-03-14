@@ -40,7 +40,7 @@
 
 ## 📫 How to Reach Me
 
-- Email: justzeiad@proton.me
+- Proton-Email :  justzeiad@proton.me
 
 <div align="center">
   <p>Discord Account<p>
