@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=justzeiad&&style=flat-square" align="center" />
+</div>
+
 # Hello, I'm Ziad ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy python-dev.
