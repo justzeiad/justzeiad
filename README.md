@@ -41,7 +41,9 @@ I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bu
 
 - Email: justzeiad@proton.me
 - Discord: NotZiad#5062
-
+<a href="https://thicc-thighs.de/" >
+   <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
+</a>
 
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
