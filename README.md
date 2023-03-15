@@ -14,7 +14,7 @@
 
 
 
-## 💻 Technical Skills
+## <img src="https://media.tenor.com/0ghUrN_7LjgAAAAi/laptop-computer-objects.gif" width="25px" height="25px"> Technical Skills
 
 - Programming languages: Python , PHP
 - Frameworks and libraries: Django , Laravel
@@ -22,14 +22,14 @@
 
 
 
-## 🔭 Current Projects
+## <img src="https://media.tenor.com/4SwrCQhVuOEAAAAj/future-glasses.gif" width="30px" height="30px"> Current Projects
 
 - scan-ports: A simple Python script that allows you to scan for open ports on a given host.
 
 - subfinder: Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
 
 
-## 🌱 What I'm Learning
+## <img src="https://media.tenor.com/DI-VLFloxMoAAAAi/flower-pot-plant-pot.gif" width="25px" height="25px"> What I'm Learning
 
 - Network
 - cyber sceurity
@@ -38,7 +38,7 @@
 
 
 
-## 📫 How to Reach Me
+## <img src="https://media.tenor.com/5wG2HVEOyHAAAAAi/letter-crooked-media.gif" width="25px" height="25px"> How to Reach Me
 
 - Proton-Email :  justzeiad@proton.me
 
