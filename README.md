@@ -40,7 +40,7 @@
 
 ## <img src="https://media.tenor.com/5wG2HVEOyHAAAAAi/letter-crooked-media.gif" width="25px" height="25px"> How to Reach Me
 
-- Proton-Email :  justzeiad@proton.me
+- Google-Email :  justzeiad@gmail.com
 
 <div align="center">
   <p>Discord Account<p>
