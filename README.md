@@ -43,9 +43,15 @@
 
 - Google-Email :  justzeiad@gmail.com
 
-<div align="center">
-  <p>Discord Account<p>
+<div align="left">
+  <p align="left">Discord Account<p>
 <a href="https://discord.com/users/950415104669806702" >
    <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=04061c&waveSpotifyColor=32325c&gradient=7E37F9-B48EF7-E568C4"  />
 </a>
+</div>
+<br>
+<div align="center">
+  <h3 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h3>
+  <img src="https://media.tenor.com/541QnIh426kAAAAC/boy-eyes.gif">
+  
 </div>
