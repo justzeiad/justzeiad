@@ -17,8 +17,8 @@
 
 ## <img src="https://media.tenor.com/0ghUrN_7LjgAAAAi/laptop-computer-objects.gif" width="25px" height="25px"> Technical Skills
 
-- Programming languages: Python , PHP
-- Frameworks and libraries: Django , Laravel
+- Programming languages: Python , PHP , JavaScript
+- Frameworks and libraries: Django , Laravel , ReactJs
 - Databases: MySQL , MongoDB
 
 
