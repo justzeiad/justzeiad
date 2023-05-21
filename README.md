@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="www.codewars.com/users/justzeiad">
-<img alt="Codewars" src="https://img.shields.io/badge/Codewars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white">
+<img alt="Codewars" src="https://img.shields.io/badge/Codewars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
 <a href="">
 <img width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
