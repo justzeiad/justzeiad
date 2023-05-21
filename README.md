@@ -62,9 +62,9 @@
   Current Projects
 </h3>
 <br/>
- scan-ports: A simple Python script that allows you to scan for open ports on a given host.
+ <strong>scan-ports:</strong> A simple Python script that allows you to scan for open ports on a given host.
 
- subfinder: Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
+  <strong>subfinder:</strong> Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
 
 </div>
 
