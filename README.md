@@ -31,10 +31,26 @@
   <img alt="Django Python" width="100px" src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
   <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="PHP" width="70px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" width="100px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br/>
+
+#
+
+<h3 align="center">
+  🛠️ Tools
+</h3>
+
+<br/>
+
+<div align="center">
+  <img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Terminal" width="87px" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge" />
+  <img alt="Git" width="61px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" width="87px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 #
 
@@ -44,7 +60,7 @@
   <img src="https://media.tenor.com/4SwrCQhVuOEAAAAj/future-glasses.gif" width="30px" height="30px">
   Current Projects
 </h3>
-
+<br/>
  scan-ports: A simple Python script that allows you to scan for open ports on a given host.
 
  subfinder: Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
