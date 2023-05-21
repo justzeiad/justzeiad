@@ -31,22 +31,19 @@
   <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+<br/>
 
+<div align="center">
 
 ## <img src="https://media.tenor.com/4SwrCQhVuOEAAAAj/future-glasses.gif" width="30px" height="30px"> Current Projects
 
-- scan-ports: A simple Python script that allows you to scan for open ports on a given host.
+ scan-ports: A simple Python script that allows you to scan for open ports on a given host.
 
-- subfinder: Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
+ subfinder: Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
 
+</div>
 
-## <img src="https://media.tenor.com/DI-VLFloxMoAAAAi/flower-pot-plant-pot.gif" width="25px" height="25px"> What I'm Learning
-
-- Network
-- cyber sceurity
-- Django: Python Web Dev. Framework.
-- Laravel: PHP Web Dev. Framework.
-- ReactJs: Javascript frontend. Framework.
+<br/>
 
 
 
@@ -62,6 +59,9 @@
 </a>
 <a href="https://discordapp.com/users/950415104669806702">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="www.codewars.com/users/justzeiad">
+<img alt="Codewars" src="https://img.shields.io/badge/Codewars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white">
 </a>
 <a href="">
 <img width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
