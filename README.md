@@ -14,12 +14,22 @@
 <p align="center">𝐼'𝓂 𝒶 𝐵𝒶𝒸𝓀-𝐸𝓃𝒹 𝒲𝑒𝒷 𝒟𝑒𝓋, 𝒞𝓎𝒷𝑒𝓇-𝒮𝑒𝒸𝓊𝓇𝒾𝓉𝓎 . 𝒷𝒶𝓈𝑒𝒹 𝒾𝓃 𝐸𝑔𝓎𝓅𝓉. 𝐼'𝓂 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒶𝒷𝑜𝓊𝓉 𝐵𝓊𝑔-𝒷𝑜𝓊𝓃𝓉𝓎 𝒶𝓃𝒹 𝑒𝓃𝒿𝑜𝓎 𝓅𝓎𝓉𝒽𝑜𝓃-𝒹𝑒𝓋.</p>
 
 
-
-## <img src="https://media.tenor.com/0ghUrN_7LjgAAAAi/laptop-computer-objects.gif" width="25px" height="25px"> Technical Skills
-
-- Programming languages: Python , PHP , JavaScript
-- Frameworks and libraries: Django , Laravel , ReactJs
-- Databases: MySQL , MongoDB
+<br>
+<h3 align="center">
+  <img src="https://media.tenor.com/0ghUrN_7LjgAAAAi/laptop-computer-objects.gif" width="25px" height="25px">
+  Skills
+</h3>
+<br>
+<div align="center">
+  <img alt="HTML5" width="85px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" width="100px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Django Python" width="100px" src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="PHP" width="70px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
 
 
