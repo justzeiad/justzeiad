@@ -50,12 +50,29 @@
 
 
 
-## <img src="https://media.tenor.com/5wG2HVEOyHAAAAAi/letter-crooked-media.gif" width="25px" height="25px"> How to Reach Me
+<h3 align="center">
+  💬 How to reach me ?
+</h3>
 
-- Google-Email :  justzeiad@gmail.com
+<br/>
 
-<div align="left">
-  <p align="left">Discord Account<p>
+<div align="center">
+<a href="mailto:justzeiad@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discordapp.com/users/950415104669806702">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="">
+<img width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
+
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <h4 align="center">Discord Activity<h4>
+    
 <a href="https://discord.com/users/950415104669806702" >
    <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=04061c&waveSpotifyColor=32325c&gradient=7E37F9-B48EF7-E568C4"  />
 </a>
