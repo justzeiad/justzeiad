@@ -83,7 +83,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/950415104669806702">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-180044?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.codewars.com/users/justzeiad">
 <img alt="Codewars" src="https://img.shields.io/badge/Codewars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
