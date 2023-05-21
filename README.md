@@ -15,6 +15,9 @@
 
 
 <br>
+
+#
+
 <h3 align="center">
   <img src="https://media.tenor.com/0ghUrN_7LjgAAAAi/laptop-computer-objects.gif" width="25px" height="25px">
   Skills
@@ -33,9 +36,14 @@
 
 <br/>
 
+#
+
 <div align="center">
 
-## <img src="https://media.tenor.com/4SwrCQhVuOEAAAAj/future-glasses.gif" width="30px" height="30px"> Current Projects
+<h3 align="center">
+  <img src="https://media.tenor.com/4SwrCQhVuOEAAAAj/future-glasses.gif" width="30px" height="30px">
+  Current Projects
+</h3>
 
  scan-ports: A simple Python script that allows you to scan for open ports on a given host.
 
@@ -45,7 +53,7 @@
 
 <br/>
 
-
+#
 
 <h3 align="center">
   💬 How to reach me ?
@@ -70,14 +78,19 @@
 <br/>
 <br/>
 <br/>
+
+
 <div align="center">
-  <h4 align="center">Discord Activity<h4>
+  <h4 align="center">~ Discord Activity ~<h4>
     
 <a href="https://discord.com/users/950415104669806702" >
    <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=04061c&waveSpotifyColor=32325c&gradient=7E37F9-B48EF7-E568C4"  />
 </a>
 </div>
 <br>
+
+#    
+
 <div align="center">
   <h3 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h3>
   <img src="https://media.tenor.com/541QnIh426kAAAAC/boy-eyes.gif">
