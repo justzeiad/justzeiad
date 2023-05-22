@@ -58,7 +58,7 @@
 <div align="center">
 
 <h3 align="center">
-  <img src="https://media.tenor.com/4SwrCQhVuOEAAAAj/future-glasses.gif" width="30px" height="30px">
+  
   Current Projects
 </h3>
 <br/>
