@@ -66,7 +66,7 @@
 
  <strong>subfinder:</strong> Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
   <br/>
-  <strong>shop-api-with-laravel:</strong>Online shop api with laravel , for mobile app.
+  <strong>shop-api-with-laravel: </strong>Online shop api with laravel , for mobile app.
 
 </div>
 
