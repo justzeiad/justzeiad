@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5006&pause=1000&color=0F520C&width=310&height=45&lines=->+Hi+There,+I'm+Ziad+." alt="Typing SVG" /></a>
 </div>
 <div align="center"><a href='https://www.codewars.com/users/justzeiad' target='_blank'><img src='https://www.codewars.com/users/justzeiad/badges/micro'></a></div><br>
-<p align="center">𝐼'𝓂 𝒶 𝐵𝒶𝒸𝓀-𝐸𝓃𝒹 𝒲𝑒𝒷 𝒟𝑒𝓋, 𝒞𝓎𝒷𝑒𝓇-𝒮𝑒𝒸𝓊𝓇𝒾𝓉𝓎 . 𝒷𝒶𝓈𝑒𝒹 𝒾𝓃 𝐸𝑔𝓎𝓅𝓉. 𝐼'𝓂 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒶𝒷𝑜𝓊𝓉 𝐵𝓊𝑔-𝒷𝑜𝓊𝓃𝓉𝓎 𝒶𝓃𝒹 𝑒𝓃𝒿𝑜𝓎 𝓅𝓎𝓉𝒽𝑜𝓃-𝒹𝑒𝓋.</p>
+<p align="center">I\'M A BACK END PYTHON DEV. BASED IN EGYPT.</p>
 
 
 <br>
