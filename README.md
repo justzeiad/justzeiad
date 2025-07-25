@@ -55,25 +55,6 @@
 
 #
 
-<div align="center">
-
-<h3 align="center">
-  
-  Current Projects
-</h3>
-<br/>
- <strong>scan-ports:</strong> A simple Python script that allows you to scan for open ports on a given host.
-
- <strong>subfinder:</strong> Sub Finder is a Python script that uses brute-force technique to enumerate subdomains for a given domain.
-  <br/>
-  <strong>shop-api-with-laravel: </strong>Online shop api with laravel , for mobile app.
-
-</div>
-
-<br/>
-
-#
-
 <h3 align="center">
   💬 How to reach me ?
 </h3>
