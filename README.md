@@ -97,7 +97,7 @@
 #    
 
 <div align="center">
-  <h3 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h3>
+  <h3 align="center">~ 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚛𝚎𝚊𝚍𝚒𝚗𝚐! ~</h3>
   <img src="https://media.tenor.com/541QnIh426kAAAAC/boy-eyes.gif">
   
 </div>
