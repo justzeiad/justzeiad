@@ -89,7 +89,7 @@
   <h4 align="center">~ Discord Activity ~<h4>
     
 <a href="https://discord.com/users/950415104669806702" >
-   <img src="https://lanyard.kyrie25.me/api/950415104669806702?waveColor=04061c&waveSpotifyColor=32325c&gradient=7E37F9-B48EF7-E568C4"  />
+   <img src="https://lanyard.kyrie25.dev/api/950415104669806702?waveColor=04061c&waveSpotifyColor=32325c&gradient=7E37F9-B48EF7-E568C4"  />
 </a>
 </div>
 <br>
