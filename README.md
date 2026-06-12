@@ -273,20 +273,34 @@ Delivering REST API solutions end-to-end for small businesses and technical clie
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/justzeiad" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-justzeiad-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1A1A"/>
-  </a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/justzeiad" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-justzeiad-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1A1A"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.hackerrank.com/justzeiad" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-justzeiad-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1A1A"/>
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/justzeiad" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-justzeiad-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A1A1A"/>
-  </a>
+
+<a href="https://leetcode.com/justzeiad" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+&nbsp;
+
+<a href="https://www.codewars.com/users/justzeiad" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-18181B?style=for-the-badge&logo=codewars&logoColor=B1361E" />
+</a>
+&nbsp;
+
+<a href="https://www.hackerrank.com/justzeiad" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-18181B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+
+<br>
+
+<a href="https://www.codechef.com/users/justzeiad" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-18181B?style=for-the-badge&logo=codechef&logoColor=A1785C" />
+</a>
+&nbsp;
+
+<a href="https://www.geeksforgeeks.org/user/justzeiad" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+</a>
+
 </div>
+
 
 ---
 
